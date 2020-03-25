@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 9480,
+  "expoServerNgrokUrl": "https://p5-ert.anonymous.myfitnesspal-react-native.exp.direct",
+  "packagerNgrokUrl": "https://packager.p5-ert.anonymous.myfitnesspal-react-native.exp.direct",
+  "ngrokPid": 9492,
+  "webpackServerPort": null
+}
